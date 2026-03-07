@@ -10,7 +10,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharukakaru&label=Profile%20views&color=0e75b6&style=flat" alt="tharukakaru" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tharukakaru&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="tharukakaru" /></a> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tharukakaru&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub trophies" />
+</p>
 
 <p align="left"> <a href="https://twitter.com/tharukakaru" target="blank"><img src="https://img.shields.io/twitter/follow/tharukakaru?logo=twitter&style=for-the-badge" alt="tharukakaru" /></a> </p>
 
@@ -49,5 +51,5 @@
 
 <h3 align="center">3D Contribution Graph</h3>
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" />
 </p>
