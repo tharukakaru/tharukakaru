@@ -11,7 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharukakaru&label=Profile%20views&color=0e75b6&style=flat" alt="tharukakaru" /> </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tharukakaru&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tharukakaru&theme=onedark&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=1&column=6" alt="GitHub trophies" />
 </p>
 
 <p align="left"> <a href="https://twitter.com/tharukakaru" target="blank"><img src="https://img.shields.io/twitter/follow/tharukakaru?logo=twitter&style=for-the-badge" alt="tharukakaru" /></a> </p>
