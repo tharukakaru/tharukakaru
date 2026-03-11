@@ -24,11 +24,11 @@
 
 <img align="right" alt="girl coding" width="320" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
 
-- 🔭 Passionate about **full-stack development, UI/UX, AI, and agentic applications**
-- 🌱 Always learning and experimenting with **modern frameworks, cloud tools, and intelligent systems**
-- 💡 I enjoy building products that are both **beautiful** and **useful**
+- Passionate about **full-stack development, UI/UX, AI, and agentic applications**
+- Always learning and experimenting with **modern frameworks, cloud tools, and intelligent systems**
+- I enjoy building products that are both **beautiful** and **useful**
 - 🇱🇰 Based in **Sri Lanka**
-- 📫 Reach me at **tharukakarunarathne60@gmail.com**
+- Reach me at **tharukakarunarathne60@gmail.com**
 
 <br clear="right"/>
 
