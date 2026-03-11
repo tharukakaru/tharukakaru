@@ -200,8 +200,6 @@
 
 ---
 
-## Motion Zone
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile+;Building+cool+things+with+code+;Designing+experiences+that+feel+alive+;Always+learning.+Always+creating." alt="motion text" />
 </p>
