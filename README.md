@@ -34,13 +34,6 @@
 
 ---
 
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tharukakaru&theme=radical&no-frame=false&no-bg=true&margin-w=10&margin-h=10&row=1&column=6" alt="tharukakaru trophies" />
-</p>
-
----
 
 ## What I’m Into
 
