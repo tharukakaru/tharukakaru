@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tharuka Karunarathne</h1>
+<h1 align="center">Hi, I'm Tharuka Karunarathne</h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=0F8FD9&center=true&vCenter=true&width=1000&lines=A+passionate+full-stack+developer+%26+UI%2FUX+enthusiast+from+Sri+Lanka;Exploring+AI%2C+agentic+applications%2C+and+modern+web+experiences;Building+clean%2C+scalable%2C+and+impactful+digital+products" alt="Typing SVG" />
@@ -20,7 +20,7 @@
 
 ---
 
-## 🪐 About Me
+## About Me
 
 <img align="right" alt="girl coding" width="320" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
 
@@ -34,7 +34,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tharukakaru&theme=radical&no-frame=false&no-bg=true&margin-w=10&margin-h=10&row=1&column=6" alt="tharukakaru trophies" />
@@ -42,7 +42,7 @@
 
 ---
 
-## ⚡ What I’m Into
+## What I’m Into
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full%20Stack-Development-0f8fd9?style=for-the-badge" />
@@ -54,7 +54,7 @@
 
 ---
 
-## 🛠 Languages and Tools
+## Languages and Tools
 
 <p align="center">
   <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a>
@@ -163,7 +163,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=tharukakaru&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -176,7 +176,7 @@
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tharukakaru&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
@@ -184,7 +184,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="mailto:tharukakarunarathne60@gmail.com">
@@ -200,10 +200,10 @@
 
 ---
 
-## ✨ Motion Zone
+## Motion Zone
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile+⚡;Building+cool+things+with+code+🚀;Designing+experiences+that+feel+alive+✨;Always+learning.+Always+creating." alt="motion text" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile+;Building+cool+things+with+code+;Designing+experiences+that+feel+alive+;Always+learning.+Always+creating." alt="motion text" />
 </p>
 
 <p align="center">
